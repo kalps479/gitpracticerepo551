@@ -1,0 +1,3 @@
+Hi this is new git explore
+look first commit changes are about to be done
+this is the first commit
